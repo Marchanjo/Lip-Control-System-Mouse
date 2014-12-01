@@ -17,12 +17,11 @@ Lista de Materiais
 |Quantidade| Descrição                               |
 |----------|-----------------------------------------|
 |1         | Pro Micro - 5V/16MHz                    |
-|2         | Thumb Joystick                          |
-|2         | Caixas Patola PB 114-2                  |
-|1         | Cabo USB microB                         |
-|2         | Coordenada Y - byte menos significativo |
-|2         | Botões de pressão                       |
-|2         | Extensores                              |
+|1         | Bluetooth Module RN 42-HID              |
+|1         | Thumb Joystick                          |
+|1         | PowerBoost 500 Charger                  |       |
+|1         | Lithium Ion Polymer Battery 500mAh      |
+|1         | Switch                                  |
 ---------------
 
 
