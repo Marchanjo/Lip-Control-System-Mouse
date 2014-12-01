@@ -8,7 +8,7 @@ A base do seu funcionamento é a placa Pro Micro (compatível com a Arduino Leon
 
 Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html](http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html)
 
-![FootMouse-Circuito](https://github.com/Marchanjo/FootMouse/blob/master/Hardware/footMouse_bb1.png)
+![LCS-BT-Mouse-Circuito](https://raw.githubusercontent.com/Marchanjo/Lip-Control-System-Mouse/master/Hardware/LCSmouse_bb.png)
 
 
 Lista de Materiais
