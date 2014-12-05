@@ -8,8 +8,11 @@ A base do seu funcionamento é a placa Pro Micro (compatível com a Arduino Leon
 
 Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html](http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html)
 
-![LCS-BT-Mouse-Circuito](https://raw.githubusercontent.com/Marchanjo/Lip-Control-System-Mouse/master/Hardware/LCSmouse_bb.png)
 
+Versão Bluetooth
+-------------------
+
+![LCS-BT-Mouse-Bluetooth-Circuito](https://github.com/Marchanjo/Lip-Control-System-Mouse/blob/master/Hardware/LCSmouseBT_bb.png)
 
 Lista de Materiais
 ---------------
@@ -19,10 +22,31 @@ Lista de Materiais
 |1         | Pro Micro - 5V/16MHz                    |
 |1         | Bluetooth Module RN 42-HID              |
 |1         | Thumb Joystick                          |
-|1         | PowerBoost 500 Charger                  |       |
+|1         | PowerBoost 500 Charger                  |       
 |1         | Lithium Ion Polymer Battery 500mAh      |
 |1         | Switch                                  |
 ---------------
+
+
+Versão de Baixo Custo
+-------------------
+
+![LCS-BT-Mouse-Circuito](https://raw.githubusercontent.com/Marchanjo/Lip-Control-System-Mouse/master/Hardware/LCSmouse_bb.png)
+
+Lista de Materiais
+---------------
+
+|Quantidade| Descrição                                                              |
+|----------|------------------------------------------------------------------------|
+|1         | Pro Micro - 5V/16MHz                                                   |
+|1         | Thumb Joystick                                                         |
+|1         | Cabo USB microB                                                        |       
+|1         | Cabo OTG (On-The-Go) Opcional para conectar no smartphone/tabler       |
+---------------
+
+
+
+
 
 
 
