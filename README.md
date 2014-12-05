@@ -6,7 +6,7 @@ O Sistema de Controle pelo Lábio é um mouse Bluetooh desenvolvido para pessoas
 A base do seu funcionamento é a placa Pro Micro (compatível com a Arduino Leonardo - ATmega32u4) e um módulo Bluetooth Roving RN 42-HID.
 
 
-Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html](http://marchanjo.blogspot.com.br/2014/11/foot-mouse-mouse-para-os-pes.html)
+Mais informações no meu Blog: [http://marchanjo.blogspot.com.br/2014/12/sistema-de-controle-pelo-labio-mouse.html](http://marchanjo.blogspot.com.br/2014/12/sistema-de-controle-pelo-labio-mouse.html)
 
 
 Versão Bluetooth
