@@ -52,7 +52,7 @@
 
 //Este código funciona com fio (cabo micro USB na Pro Micro) ou sem fio com o módulo Bluetooth Roving RN 42-HID
 //This code works wired (micro USB cable in Pro Micro board) or wireless with Roving RN 42-HID Blutooth Module
-boolean bluetooth=true; /// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Mude aqui // Change here 
+boolean bluetooth=false; /// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Mude aqui // Change here 
 
 boolean leonardo=true;
 
