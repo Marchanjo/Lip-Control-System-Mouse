@@ -54,6 +54,7 @@ Mapa do projeto
 ---------------
 * **/Firmware** - Código Arduino
 * **/Hardware** - Arquivos de design, formato Fritzing
+* **/Bin** - Arquivos binários
 
 Licença
 -------
