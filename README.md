@@ -1,4 +1,4 @@
-Lip-Control-System-Mouse
+﻿Lip-Control-System-Mouse
 ========================
 
 O Sistema de Controle pelo Lábio é um mouse Bluetooh desenvolvido para pessoas com tetraplegia, ele utiliza um mini joystick posicionado próximo ao lábio inferior.
@@ -54,7 +54,6 @@ Mapa do projeto
 ---------------
 * **/Firmware** - Código Arduino
 * **/Hardware** - Arquivos de design, formato Fritzing
-* **/Bin** - Arquivos binários
 
 Licença
 -------
