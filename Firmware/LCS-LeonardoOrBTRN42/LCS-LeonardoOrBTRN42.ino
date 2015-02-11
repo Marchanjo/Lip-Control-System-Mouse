@@ -57,8 +57,8 @@ boolean bluetooth=false; /// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Mude aqui // Change 
 boolean leonardo=true;
 
 //joy vcc=5v vml
-const int VERT = 0; 
-const int HORIZ = 1; 
+const int VERT = 1; 
+const int HORIZ = 0; 
 const int SEL = 8; 
 
 
@@ -147,7 +147,7 @@ void loop()
   lastHor=horizontal;
   
   vertical = 1023-analogRead(VERT); //joy will be 0-1023
-  horizontal = analogRead(HORIZ); //joy will be 0-1023
+  horizontal = 1023-analogRead(HORIZ); //joy will be 0-1023
      
   difHor=horizontal-lastHor;
   difVert=vertical-lastVert;
